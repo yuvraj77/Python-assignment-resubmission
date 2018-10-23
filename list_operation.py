@@ -1,0 +1,10 @@
+list=['SOIS','AES','MES','ES']
+print(list)
+list.append('VIR')
+print(list)
+list.insert(1,'IOT')
+print(list)
+list.sort()
+print(list)
+list.reverse()
+print(list)
